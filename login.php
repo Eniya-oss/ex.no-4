@@ -1,7 +1,7 @@
 <?php
  $usr = $_POST["usr"];
  $pwd = $_POST["pwd"];
- if($usr == “admin” && $pwd == “admin@123”)
+ if($usr == “admin” && $pwd == “admin123”)
  {
  $loginName = "Welcome Admin";
  }
@@ -27,7 +27,7 @@
 </section>
 </article>
 <footer>
-Developed by K Anbarasan
+Developed by Eniki
 </footer>
 </body>
 </html>
